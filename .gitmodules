@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = modules/submodule
+	url = https://github.com/artificial-lua/submodule-subtree-test-submodule.git
