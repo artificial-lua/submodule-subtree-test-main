@@ -1,0 +1,1 @@
+from .basicmodule import version_check
