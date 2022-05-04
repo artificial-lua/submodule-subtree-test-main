@@ -1,17 +1,3 @@
-# module_list = []
-
-# if __name__ == '__main__':
-#     print('main - run')
-    
-#     try:
-#         submodule = __import__('modules.submodule', fromlist=['submodule'])
-#         module = submodule.version_check()
-#         module_name = module['name']
-#         module_version = module['version']
-#         print(f'submodule - {module_name}:{module_version}')
-#         module_list.append(module)
-#     except Exception as e:
-#         print(f'main:error - {e}')
 import os
 
 MODULES = []
